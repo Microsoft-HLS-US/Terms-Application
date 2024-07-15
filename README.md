@@ -13,7 +13,7 @@ The companion Model Driven application is provided to support physician onboardi
 ## Important
 Please be advised that this is a demo application meant to showcase the capabilities of the Power Platform. It should not be considered feature complete, error-free or meant to be used as a production-ready application. 
 
-Please carefully read the license terms under which this solution is made available for download. 
+Before downloading, please carefully read the license terms under which this solution is made available for use. 
  
 
 ## Installation
